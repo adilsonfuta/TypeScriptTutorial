@@ -1,0 +1,25 @@
+{
+  "name": "typescripttutorial",
+  "version": "1.0.0",
+  "description": "tipagem dinamica - o TypeScript permite que variaveis mudem de tipo\r > let minhaVariavel: any = 10;    // inicialmente é um número",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilsonfuta/TypeScriptTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adilsonfuta/TypeScriptTutorial/issues"
+  },
+  "homepage": "https://github.com/adilsonfuta/TypeScriptTutorial#readme",
+  "dependencies": {
+    "uuid": "^13.0.0"
+  }
+}
